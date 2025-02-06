@@ -29,4 +29,3 @@ Pay:
 - Save prompt
 - Possible personalize and share promt creaded
 - Pre-configuration insights of prompts
-- 
