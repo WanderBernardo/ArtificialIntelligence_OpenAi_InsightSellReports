@@ -17,3 +17,14 @@ The goal is show how create a prompt to generate insights of sell report.
 ![image](https://github.com/user-attachments/assets/a0f1f9fc-cb2a-428d-af75-fda31a0c897e)
 
 
+### Free or Pay:
+
+Free:
+- Not possible personalize and share promt creaded
+- No save prompt
+
+Pay:
+- Possible use of the biggest base of data
+- Save prompt
+-  Possible personalize and share promt creaded
+
