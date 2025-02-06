@@ -22,9 +22,11 @@ The goal is show how create a prompt to generate insights of sell report.
 Free:
 - Not possible personalize and share promt creaded
 - No save prompt
-
+- Analycs fast and indivudual
+  
 Pay:
 - Possible use of the biggest base of data
 - Save prompt
--  Possible personalize and share promt creaded
-
+- Possible personalize and share promt creaded
+- Pre-configuration insights of prompts
+- 
